@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\VS Proyects\MAVI2\Unidad3\Ejercicio2\Project1\main.cpp(65,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad3\Ejercicio2\Project1\main.cpp(65,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad3\Ejercicio2\Project1\main.cpp(89,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad3\Ejercicio2\Project1\main.cpp(89,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  LINK : no se encontró D:\VS Proyects\MAVI2\Unidad3\Ejercicio2\..\Bin\Debug\Project1.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Project1.vcxproj -> D:\VS Proyects\MAVI2\Unidad3\Bin\Debug\Project1.exe
